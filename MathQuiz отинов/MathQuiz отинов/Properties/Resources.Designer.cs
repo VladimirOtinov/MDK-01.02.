@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MathQuiz_Сивунов.Properties
+namespace MathQuiz_отинов.Properties
 {
 
 
