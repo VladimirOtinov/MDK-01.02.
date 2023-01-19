@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MathQuiz_Сивунов
+namespace MathQuiz_отинов
 {
     internal static class Program
     {
