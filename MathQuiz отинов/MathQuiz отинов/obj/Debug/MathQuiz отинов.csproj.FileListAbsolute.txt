@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\bin\Debug\MathQuiz Сивунов.exe.config
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\bin\Debug\MathQuiz Сивунов.exe
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\bin\Debug\MathQuiz Сивунов.pdb
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz_Сивунов.Form1.resources
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz_Сивунов.Properties.Resources.resources
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.exe
+C:\Users\student\Desktop\Экзамен\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.pdb
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\bin\Debug\MathQuiz Сивунов.exe.config
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\bin\Debug\MathQuiz Сивунов.exe
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\bin\Debug\MathQuiz Сивунов.pdb
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.AssemblyReference.cache
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.SuggestedBindingRedirects.cache
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz_Сивунов.Form1.resources
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz_Сивунов.Properties.Resources.resources
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.GenerateResource.cache
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.csproj.CoreCompileInputs.cache
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.exe
+D:\сишарп\MathQuiz Сивунов\MathQuiz Сивунов\obj\Debug\MathQuiz Сивунов.pdb
