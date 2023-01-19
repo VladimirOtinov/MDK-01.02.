@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MathQuiz_Сивунов
+namespace MathQuiz_отинов
 {
     public partial class Form1 : Form
     {
