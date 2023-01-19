@@ -1,4 +1,4 @@
-﻿namespace MathQuiz_Сивунов
+﻿namespace MathQuiz_отинов
 {
     partial class Form1
     {
