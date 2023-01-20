@@ -73,7 +73,7 @@ namespace MathQuiz_отинов
             dividedLeftLabel.Text = dividend.ToString();
             dividedRightLabel.Text = divisor.ToString();
             quotient.Value = 0;
-            timeLeft = 8;
+            timeLeft = 30;
             timeLabel.Text = "30 seconds";
             timer1.Start();
 
